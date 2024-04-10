@@ -374,6 +374,7 @@ section.paralax4{
 ::-webkit-scrollbar-thumb{
     width: 10px;
     background-color: #8a2be2;
+    border-radius: 15px;
 }
 
 
